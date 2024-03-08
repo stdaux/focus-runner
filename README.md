@@ -28,5 +28,8 @@ The primary objective of Focus Runner is to emphasize the importance of focus an
 Note: This game concept serves as a proof of concept and can be further developed with additional features, levels, and challenges to enhance the gameplay experience and reinforce the core message of focus and distraction avoidance.
 
 ### Website Landing Page (Click On It)
-* [Web-Page]()
+* [Web-Page](https://stdaux.github.io/focus-runner/)
+  
+### Game Link (Click On It)
+* [Game](https://stdaux.github.io/focus-runner/app)
 
