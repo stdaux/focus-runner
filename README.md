@@ -30,6 +30,4 @@ Note: This game concept serves as a proof of concept and can be further develope
 ### Website Landing Page (Click On It)
 * [Web-Page](https://stdaux.github.io/focus-runner/)
   
-### Game Link (Click On It)
-* [Game](https://stdaux.github.io/focus-runner/app)
 
